@@ -1,0 +1,512 @@
+@media screen and (max-width: 1650px) {
+	.header-model {
+		margin-right: -80px !important;
+	}
+	.competition-text-block p {
+		width: 520px !important;
+	}
+}
+
+@media screen and (max-width: 1470px) {
+	.container {
+		width: 1260px !important;
+	}
+	.right-img {
+		display: none;
+	}
+	.competition-wrapper h2 {
+		text-align: center;
+		margin: 0 auto;
+	}
+	.competition-wrapper p {
+		width: 90% !important;
+	}
+	.competition-text {
+		justify-content: space-between;
+	}
+	.events-body {
+		display: block !important;
+		padding-right: 0 !important;
+	}
+	.header-model {
+		margin-right: 0 !important;
+	}
+	.events-block {
+		justify-content: center;
+	}
+	.header-model {
+		margin-left: -40px !important;
+	}
+	.competition-text-block p {
+		width: 100% !important;
+	}
+	.events-block:last-child {
+		margin-top: 75px;
+	}
+	.events-text {
+		right: 270px !important;
+	}
+	.events-text-second {
+		right: 180px !important;
+	}
+}
+
+@media screen and (max-width: 1380px) {
+	.container {
+		width: 1170px !important;
+		padding: 0 15px;
+	}
+	.advantages-block {
+		height: auto !important;
+	}
+	.advantages-block:last-child {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	.events-text {
+		right: 220px !important;
+	}
+	.events-text-second {
+		right: 130px !important;
+	}
+	.perfomance-text h3 {
+		font-size: 48px !important;
+	}
+	.perfomance-text-third h3 {
+		width: 100px !important;
+	}
+	.perfomance-block-third {
+		justify-content: flex-start !important;
+	}
+	.perfomance-text-third {
+		margin-left: 48px;
+	}
+	.header-model {
+		width: 45% !important;
+		margin-left: -25px !important;
+	}
+	.offer-block h1 {
+		width: 500px !important;
+		font-size: 48px !important;
+	}
+	.offer-block p {
+		width: 580px !important;
+		font-size: 22px !important;
+	}
+	.order-btn {
+		width: 260px !important;
+		height: 60px !important;
+		font-size: 22px !important;
+	}
+}
+
+@media screen and (max-width: 1200px) {
+	.container {
+		width: 968px !important;
+	}
+	.advantages-text p {
+		width: 302px !important;
+	}
+	.offer {
+		padding: 80px 0;
+	}
+	.header-model {
+		display: none;
+	}
+	.offer-block  {
+		text-align: center;
+		margin: 0 auto;
+	}
+	.offer-block h1,
+	.offer-block p,
+	.order-btn {
+		margin: 0 auto;
+	}
+	.offer:before,
+	.offer:after {
+		display: none;
+	}
+	.offer {
+		background: #222;
+	}
+	.advantages-block,
+	.finish-block {
+		display: block !important;
+		text-align: center;
+		height: auto !important;
+	}
+	.services-body {
+		-webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+	}
+	.advantages-block:last-child {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	.advantages-text h3,
+	.finish-block h3 {
+		margin-top: 20px;
+	}
+	.events-text {
+		right: 120px !important;
+	}
+	.events-text-second {
+		right: 30px !important;
+	}
+	.perfomance-block h3 {
+		font-size: 42px !important;
+		width: 380px !important;
+	}
+	.perfomance-text {
+		margin-right: 38px !important;
+	}
+	.perfomance-text {
+		margin-left: 38px;
+	}
+	.services-block:last-child {
+		margin: 0 auto;
+		margin-top: 80px;
+	}
+	.perfomance-block-third h3 {
+		width: 200px !important;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.container {
+		width: 720px !important;
+	}
+	.services-block:nth-child(3) {
+		margin-top: 80px;
+	}
+	.header-clock,
+	.header-btn,
+	.header-language {
+		margin-top: 20px;
+	}
+	.menu__item {
+		margin-left: 30px !important;
+	}
+	.border-block {
+		top: 180px !important;
+	}
+	.perfomance-border {
+		border: 14px solid white !important;
+	}
+	.perfomance-body {
+		display: block !important;
+		margin-top: 0 !important;
+	}
+	.perfomence-second,
+	.perfomence-third {
+		width: 100% !important;
+		margin-top: 30px;
+	}
+	.perfomance-text-second h3 {
+		text-align: left !important;
+	}
+	.perfomance-text-second a {
+		display: block !important;
+	}
+	.perfomance-block {
+		display: flex;
+		justify-content: flex-start !important;
+	}
+	.events-text {
+		right: 40px !important;
+	}
+	.events-text-second {
+		right: 40px !important;
+		bottom: 0 !important;
+	}
+	.events-text-second h3 {
+		width: 329px !important;
+	}
+	.competition-wrapper h2 {
+		width: 90% !important;
+	}
+	h2 {
+		font-size: 42px !important;
+	}
+	.footer-right,
+	.finish-block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	.finish-block img {
+		height: auto !important;
+	}
+	.competition-text {
+		display: block !important;
+	}
+	.competition-text-block-two {
+		margin-left: 0 !important;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		width: 540px !important;
+	}
+	.advantages-block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	.advantages-block:first-child {
+		margin-top: 0;
+	}
+	.services-block {
+		margin: 0 auto;
+		margin-top: 80px;
+	}
+	.services-block:nth-child(3) {
+		margin-top: 0;
+	}
+	.event-img {
+		display: none;
+	}
+	.events-text {
+		position: relative !important;
+		right: 0 !important;
+		bottom: 0 !important;
+		top: 0 !important;
+		left: 0 !important;
+	}
+	.events-block {
+		display: block !important;
+		width: 100% !important;
+	}
+	.event-calendar {
+		margin-left: 0 !important;
+		margin-top: 30px !important;
+	}
+	.events-text h3 {
+		width: 100% !important;
+		margin-top: 20px;
+	}
+	.events-text {
+		text-align: center;
+	}
+	.events-text p,
+	.event-calendar {
+		justify-content: center;
+	}
+	.offer-block h1 {
+		font-size: 42px !important;
+	}
+	.offer-block p {
+		width: 90% !important;
+	}
+	nav {
+		padding: 20px 0;
+	}
+	h2 {
+		font-size: 36px !important;
+	}
+	.services-body {
+		margin-top: 30px !important;
+	}
+	.services-block:nth-child(3) {
+		margin-top: 80px !important;
+	}
+	.events {
+		padding: 80px 0 !important;
+	}
+	.competition {
+		padding-top: 80px !important;
+	}
+	.services {
+		padding-bottom: 80px !important;
+	}
+	.footer-body {
+		display: block !important;
+	}
+	.footer-left {
+		text-align: center;
+	}
+	.footer-logo {
+		justify-content: center;
+	}
+	.phone-btn {
+		margin: 0 auto;
+	}
+	.footer-menu {
+		text-align: center;
+		margin-top: 50px;
+	}
+	.footer-right {
+		text-align: center;
+	}
+	.input,
+	.post {
+		margin: 0 auto;
+	}
+	.form {
+		margin-top: 20px;
+	}
+	.footer-body {
+		padding-bottom: 40px !important;
+	}
+	.burger-menu {
+		display: block !important;
+	}
+	.menu {
+		width: 100%;
+		position: absolute;
+		background: white;
+		display: block !important;
+		left: 0;
+		top: -100%;
+		z-index: 150;
+		text-align: center;
+		transition: 0.6s linear;
+	}
+	.menu__link {
+		font-size: 20px !important;
+		padding: 15px 0 !important;
+		border: 1px solid #f6f6f6;
+		width: 100%;
+		transition: 0.3s linear;
+	}
+	.menu__link:hover {
+		background: #e1dddd;
+	}
+	.menu__link:before {
+		display: none;
+	}
+	.menu__item {
+		margin-left: 0 !important;
+	}
+	.menu-active {
+		top: 230px;
+	}
+}
+
+@media screen and (max-width: 568px) {
+	.container {
+		width: 90% !important;
+	}
+	.advantages-text h3 {
+		font-size: 18px !important;
+	}
+	.advantages-text p {
+		width: 90% !important;
+		font-size: 16px !important;
+	}
+	.services-block {
+		width: auto !important;
+	}
+	.services-absolute {
+		right: -22px !important;
+	}
+	.perfomance-text h3 {
+		font-size: 24px !important;
+		font-weight: 500 !important;
+		width: 90% !important;
+		text-align: center !important;
+		margin: 0 auto;
+	}
+	.perfomance-text a {
+		justify-content: center;
+		margin-top: 20px !important;
+	}
+	.perfomance-text  {
+		margin: 0 !important;
+	}
+	.events-btn {
+		display: none !important;
+	}
+	.events-btn2 {
+		display: block !important;
+		width: 90%;
+		height: 64px;
+		line-height: 64px;
+		text-align: center;
+		font-size: 20px;
+		color: #222;
+		border-top: 2px solid #455e79;
+    	border-bottom: 2px solid #455e79;
+    	border-left: 2px solid transparent;
+    	border-right: 2px solid transparent;
+    	margin: 0 auto;
+    	margin-top: 50px;
+    	transition: 0.3s linear;
+	}
+	.events-btn2:hover {
+		border-left: 2px solid #455e79;
+    	border-right: 2px solid #455e79;
+	}
+	h2 {
+		font-size: 30px !important;
+	}
+	.events-text h3  {
+		font-size: 26px !important;
+	}
+	.competition-wrapper p,
+	.competition-text-block p {
+		font-size: 18px !important;
+	}
+	.finish-block h3 {
+		width: 90% !important;
+		font-size: 16px !important;
+	}
+	.footer-finish p {
+		font-size: 18px !important;
+	}
+	.offer-block h1 {
+		width: 90% !important;
+		font-size: 28px !important;
+	}
+	.offer-block p {
+		font-size: 18px !important;
+	}
+	.order-btn {
+		width: 200px !important;
+		height: 46px !important;
+		font-size: 18px !important;
+	}
+	.offer,
+	.events,
+	.competition {
+		padding: 40px 0 !important;
+	}
+	.services {
+		padding-bottom: 40px !important;
+	}
+	.header-body {
+		display: block !important;
+	}
+	.border-block {
+		top: 346px !important;
+	}
+	.phone-text p,
+	.clock-text p {
+		font-size: 14px !important;
+	}
+	.header-logo,
+	.header-phone,
+	.header-clock {
+		justify-content: center;
+	}
+	.header-phone {
+		margin-top: 20px;
+	}
+	.header-btn {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+	.header-language {
+		display: flex;
+		justify-content: center;
+	}
+	.menu-active  {
+		top: 390px !important;
+	}
+	.perfomance-text-second a {
+		display: flex !important;
+		justify-content: center !important;
+		align-items: center !important; 
+	}
+}
+
